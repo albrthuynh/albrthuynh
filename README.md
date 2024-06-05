@@ -4,7 +4,7 @@
 
 I'm a full-stack developer who wants to develop technologies that are accessible to anyone. In university so I want to learn as much as I can!
 
-[![Static Badge](https://img.shields.io/badge/albrthuynh-grey?style=flat-square&logo=gmail&labelColor=white&link=albrthuynh%40gmail.com)](albrthuynh@gmail.com)
+[![Static Badge](https://img.shields.io/badge/albrthuynh-grey?style=flat-square&logo=instagram&labelColor=white)](https://www.instagram.com/albert_huynhhh/)
 [![Linkedin: albrthuynh](https://img.shields.io/badge/-albrthuynh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/albrthuynh/)
 [![GitHub albrthuynh](https://img.shields.io/github/followers/albrthuynh?label=follow&style=social)](https://github.com/albrthuynh)
 
