@@ -1,4 +1,11 @@
-## Hi there 👋
+# ♟️Albert Huynh
+
+**🎓 Student at the [University of Illinois at Chicago](https://www.uic.edu/)**
+
+I'm a full-stack developer who wants to develop technologies that are accessible to anyone. In university so I want to learn as much as I can!
+
+[![Linkedin: albrthuynh](https://img.shields.io/badge/-albrthuynh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/albrthuynh/)
+
 
 <!--
 **albrthuynh/albrthuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
