@@ -39,5 +39,5 @@ function albert(){
 ## 🎉 Fun Facts!
 
 - ♟️ I'm rated 2100 on [Chess.com](https://www.chess.com)
-- 🥊 My hobby right now is boxing
+- 🏃 I have ran 2 5K's so far!
 
