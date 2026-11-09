@@ -27,7 +27,7 @@ I'm a passionate full-stack developer who wants to create technology that's acce
 function albert(){
   const pronouns = "he/him";
   let code = [Python, C++, TypeScript];
-  let tools = [React, JUnit]
+  let tools = [React, PostHog, Sentry, GitHub]
   goal: "To become a better software engineer by learning whenever I can, and developing my skills as much as possible"
   
   thankYou(){
